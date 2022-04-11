@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lflanderka@gmail.com
+	name = Lara Flanderka
